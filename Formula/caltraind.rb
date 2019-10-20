@@ -1,5 +1,5 @@
 class Caltraind < Formula
-  desc "notification generator for caltrain arrivals"
+  desc "notification generator for caltrain departures"
   homepage "https://github.com/ahouts/caltraind"
 
   url "https://github.com/ahouts/caltraind/releases/download/v0.2.0/caltraind-osx-x86_64.tar.gz"
