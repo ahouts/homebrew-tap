@@ -1,9 +1,9 @@
 # Ahouts Tap
 
 ## How do I install these formulae?
-`brew install ahouts/homebrew-tap/<formula>`
+`brew install ahouts/tap/<formula>`
 
-Or `brew tap ahouts/homebrew-tap` and then `brew install <formula>`.
+Or `brew tap ahouts/tap` and then `brew install <formula>`.
 
 Or install via URL (which will not receive updates):
 
